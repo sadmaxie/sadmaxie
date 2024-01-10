@@ -24,7 +24,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadmaxie&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sadmaxie" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sadmaxie&show_icons=true&locale=en&theme=tokyonight" alt="sadmaxie" /></p>
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadmaxie&theme=tokyonight" alt="sadmaxie" /></p>
+-->
+<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=sadmaxie" width="600" /></a>
 
 
 
