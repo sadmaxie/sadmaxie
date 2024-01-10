@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/NiTjnID.gif)]()
+[![MasterHead](https://cdn.discordapp.com/attachments/516896553902931982/1194740117907189800/its_me.gif?ex=65b17371&is=659efe71&hm=9b9bc010776c7911754d8936ae759a9458a4c6801640bde18b0aec37ca263ba5&)]()
 <h1 align="center">Hi 👋, I'm sad maxie</h1>
 <h3 align="center">A Python senior developer</h3>
 <img align="right" alt="Coding" width="400" src="https://stats.dooboo.io/api/github-stats-advanced?login=sadmaxie">
