@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/rrnIqDe.gif)]()
 <h1 align="center">Hi 👋, I'm sad maxie</h1>
-<h3 align="center">A Python senior developer</h3>
+<h3 align="center">A Flatter senior developer</h3>
 <img align="right" alt="Coding" width="400" src="https://stats.dooboo.io/api/github-stats-advanced?login=sadmaxie">
 
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **DevNest**
+- 🔭 I’m currently working on **DevNest / E.T**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Flatter**
 
 - ⚡ Fun fact **Cats are indeed adorable creatures!**
 
