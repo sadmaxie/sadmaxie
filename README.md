@@ -1,20 +1,11 @@
 [![MasterHead](https://i.imgur.com/rrnIqDe.gif)]()
 
-# Hello! I'm [Your Name] 👋
+# Hello! I'm Ahmet Abed 👋
 
-I’m a passionate **Flutter developer** working on a **graduation project** with a focus on creating innovative apps. I'm also diving deep into **network security** and have a keen interest in **DDoS mitigation**. In my free time, I love exploring new **technologies** and **coding challenges**. 
+I’m a passionate **Flutter developer** working on a **graduation project** and focusing on **cybersecurity**. I manage and plan exciting **projects** with a focus on **app development** and **UI/UX design**.
 
-🌱 I’m currently learning **Flutter** and **UI/UX Design** to improve my app development skills.
-
-💼 I’m working on an exciting **financial management app** called **PennyWise**, and I’m always open to collaborating and learning new things!
-
-📫 You can reach me through my [LinkedIn](#) or [Twitter](#). 
+🌱 Currently, I’m improving my **Flutter** skills and creating a **financial management app** called **PennyWise**.
 
 ---
 
 ![Metrics](/github-metrics.svg)
-
-
-
-
-
