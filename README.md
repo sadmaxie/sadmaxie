@@ -7,9 +7,19 @@
 </p>
 
 <p align="center" style="margin-top: 0; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=red" alt="Python">
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=red" alt="Java">
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=red" alt="C++">
+  <img src="https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=red" alt="Flutter">
+  <img src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=red" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=red" alt="VS Code">
+  <img src="https://img.shields.io/badge/Tools-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=red" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=red" alt="PyCharm">
+  <img src="https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=red" alt="Figma">
+  <img src="https://img.shields.io/badge/Tools-Draw_IO-informational?style=flat&logo=draw.io&logoColor=white&color=red" alt="Draw.io">
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=red" alt="Git">
+  <img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=red" alt="SQLite">
   <img src="https://komarev.com/ghpvc/?username=sadmaxie&color=red" alt="Profile Views">
-  <img src="https://img.shields.io/badge/Flutter-D4C1FF?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" height="20">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="20">
 </p>
 
 I’m an **IT professional** and **Cybersecurity enthusiast** based in **Istanbul, Turkey**. With over 10 years of experience in **IT support**, I have a strong background in **project management** and have led diverse technical initiatives. My expertise includes designing and developing solutions using **Flutter** and **Python**, with a focus on user-centric systems and efficient project delivery.
