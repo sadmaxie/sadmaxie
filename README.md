@@ -14,4 +14,4 @@ In addition to my professional work, I am passionate about **cybersecurity** and
 
 ---
 
-![Metrics](/github-metrics.svg)
+
