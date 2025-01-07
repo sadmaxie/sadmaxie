@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://i.imgur.com/rrnIqDe.gif" alt="MasterHead">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Ahmet%20Abed;Hello%20everyone&font=Fira%20Code&center=true&width=500&height=70&duration=3000&pause=1000&color=ffffff" alt="Typing Animation Example">
 </p>
 
