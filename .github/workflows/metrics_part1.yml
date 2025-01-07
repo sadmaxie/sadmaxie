@@ -40,3 +40,4 @@ jobs:
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           filename: /metrics_renders/github-metrics-1.svg
+          
