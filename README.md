@@ -1,6 +1,6 @@
-[![MasterHead](https://i.imgur.com/rrnIqDe.gif)]()
-
-# Hello! I'm Ahmet Abed 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ahmet%20Abed;Hello%20everyone&font=Fira%20Code&center=true&width=500&height=70&duration=3000&pause=1000&color=ffffff" alt="Typing Animation Example">
+</p>
 
 I’m an **IT professional** and **Cybersecurity enthusiast** based in **Istanbul, Turkey**. With over 10 years of experience in **IT support**, I have a strong background in **project management** and have led diverse technical initiatives. My expertise includes designing and developing solutions using **Flutter** and **Python**, with a focus on user-centric systems and efficient project delivery.
 
