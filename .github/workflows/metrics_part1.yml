@@ -1,0 +1,19 @@
+name: Metrics Part 1
+on:
+  schedule: [{cron: "0 * * * *"}]
+  workflow_dispatch:
+
+jobs:
+  github-metrics-part1:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: header, activity, repositories
+          config_timezone: Europe/Istanbul
+          output_action: commit
+          filename: /metrics_renders/github-metrics-1.svg
