@@ -23,7 +23,4 @@ jobs:
           plugin_reactions_limit_discussions: 100
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
-          plugin_posts: yes
-          plugin_posts_limit: 4
-          plugin_posts_user: .user.login
           filename: /metrics_renders/github-metrics-2.svg
