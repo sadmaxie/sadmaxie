@@ -34,9 +34,9 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_posts: yes
-          plugin_posts_limit: 4
-          plugin_posts_user: .user.login
+          # plugin_posts: yes
+          # plugin_posts_limit: 4
+          # plugin_posts_user: .user.login
           plugin_reactions: yes
           plugin_reactions_display: absolute
           plugin_reactions_limit: 200
