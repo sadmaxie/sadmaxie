@@ -13,5 +13,5 @@ In addition to my professional work, I am passionate about **cybersecurity** and
 🌱 Currently, I'm improving my **Flutter** skills, working on my **graduation project**, and developing a **financial management app** called **PennyWise**, along with other private projects.
 
 ---
-
+![Metrics](/github-metrics.svg)
 
