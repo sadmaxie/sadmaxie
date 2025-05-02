@@ -1,48 +1,66 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 * * * *"}]
+  # Schedule daily updates
+  schedule: [{cron: "0 0/24 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  # (optional) Run workflow when pushing on master/main
+  # push: {branches: ["master", "main"]}
 
 jobs:
-  github-metrics:
+  github-metrics-left:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: stalomeow/metrics@projects-v2
+      - name: left profile
+        uses: stalomeow/metrics@projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics.svg
+          filename: github-metrics-left.svg
+
+          # Options
+          user: ${{ github.repository_owner }} # Using dynamic username
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Istanbul
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: repositories
+          base: header, activity, community
+          config_timezone: Europe/Istanbul # Setting timezone to Istanbul
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          plugin_reactions: yes
-          plugin_reactions_display: absolute
-          plugin_reactions_limit: 200
-          plugin_reactions_limit_discussions: 100
-          plugin_reactions_limit_discussions_comments: 100
-          plugin_reactions_limit_issues: 100
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
-          plugin_achievements: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage #, lines
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 30
+          # plugin_anilist: yes
+          # plugin_anilist_user: Stalo
+          # plugin_anilist_sections: characters
+          # plugin_anilist_limit_characters: 22
+          config_padding: 0, 8 + 11%
+          config_order: base.header, base.activity+community, languages #, anilist
+
+  github-metrics-right:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: right profile
+        uses: stalomeow/metrics@projects-v2
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-right.svg
+
+          # Options
+          user: ${{ github.repository_owner }} # Using dynamic username
+          template: classic
+          base: ""
+          config_timezone: Europe/Istanbul # Setting timezone to Istanbul
+          plugin_achievements: yes # Enabling achievements
           plugin_achievements_threshold: X
           plugin_achievements_limit: 8
           plugin_achievements_display: detailed
+          # plugin_stars: yes
+          # plugin_stars_limit: 2
+          config_padding: 0, 8 + 11%
+          config_order: achievements #, stars
