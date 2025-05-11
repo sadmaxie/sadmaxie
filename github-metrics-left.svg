@@ -42,8 +42,8 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            60 Commits
+                            62 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -148,19 +148,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 520kb of code in 268 edited files across 57 commits</small>
+                <small>estimation from 544kb of code in 293 edited files across 59 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="167.1313799273916" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="167.1313799273916" y="0" width="145.62810665920455" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="312.75948658659615" y="0" width="127.5969277671819" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="440.35641435377806" y="0" width="11.507028873981016" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="451.8634432277591" y="0" width="7.089847345670376" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="458.95329057342946" y="0" width="0.796041149657209" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="459.74933172308664" y="0" width="0.2506682769133339" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="187.09339188911" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="187.09339188911" y="0" width="135.70205173951828" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="322.79544362862833" y="0" width="118.89988334591368" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="441.695326974542" y="0" width="10.722706374802717" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="452.4180333493447" y="0" width="6.606601248884925" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.0246345982296" y="0" width="0.7417827489192342" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.7664173471489" y="0" width="0.23358265285116311" height="8" fill="#438eff"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -172,7 +172,7 @@
                                 Dart
                             </div>
                             <small>
-                                <div>36.33%</div>
+                                <div>40.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -183,7 +183,7 @@
                                 CMake
                             </div>
                             <small>
-                                <div>27.74%</div>
+                                <div>25.85%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -194,7 +194,7 @@
                                 C
                             </div>
                             <small>
-                                <div>1.54%</div>
+                                <div>1.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -218,7 +218,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>31.66%</div>
+                                <div>29.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -229,7 +229,7 @@
                                 Swift
                             </div>
                             <small>
-                                <div>2.5%</div>
+                                <div>2.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -240,7 +240,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>0.17%</div>
+                                <div>0.16%</div>
                             </small>
                         </div>
                     </section>
